@@ -1,3 +1,8 @@
+install dependencies:
+```python
+pip install -r requirements.txt
+```
+
 run
 ```python
 python3 main.py
